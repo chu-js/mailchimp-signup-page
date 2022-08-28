@@ -1,5 +1,5 @@
-Before running programme, add Audience ID and API key from Mailchimp in app.js.
+Before running programme, update MAILCHIMP_SERVER, AUDIENCE_ID and API_KEY from Mailchimp in app.js.
 
-To run the programme, use `nodemon app.js`.
+To run the programme, use `node app.js`.
 
 Created with Bootstrap & node.js.
